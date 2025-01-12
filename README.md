@@ -1,4 +1,4 @@
-# STRAITPAY FULLSTACK DEVELOPER ASSESSMENT
+# FRONTEND DEVELOPER ASSESSMENT
 
 This todo app was built with Reactjs and Typescript CHAKRA-UI;
 
@@ -12,15 +12,19 @@ To start this app.
 
 ## APPLICATION URL
 
-https://straitpay-todoapp.vercel.app/
+https://todo-assessment-murex.vercel.app/
 
 ## Project Github
 
-https://github.com/MrCandie/straitpay---todoapp-frontend
+https://github.com/MrCandie/todo
 
 ## My Github URL
 
 https://github.com/MrCandie
+
+## API URL
+
+https://straitpay-todoapp-backend.onrender.com
 
 ## Portfolio URL
 
