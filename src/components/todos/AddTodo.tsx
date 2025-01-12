@@ -37,7 +37,7 @@ export default function AddTodo({
       !formData.category
     ) {
       toast({
-        title: "Task name, prioritty level, category and date are required",
+        title: "Task name, priority level, category and date are required",
         description: "",
         status: "warning",
         position: "top-left",
