@@ -30,9 +30,14 @@ export default function AddTodo({
   });
 
   async function addHandler() {
-    if (!formData.name || !formData.start_date) {
+    if (
+      !formData.name ||
+      !formData.start_date ||
+      !formData.priority_level ||
+      !formData.category
+    ) {
       toast({
-        title: "Task name and start date required",
+        title: "Task name, prioritty level, category and date are required",
         description: "",
         status: "warning",
         position: "top-left",
